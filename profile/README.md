@@ -24,7 +24,7 @@ Here are some of the projects we're working on:
 - **Canvas & Circuits**: A story of warmth, understanding, and the love that grows in unexpected places.
 
 ## Code of Conduct 📜
-We are committed to fostering an inclusive and respectful community. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
+We are committed to fostering an inclusive and respectful community. Please read our [Code of Conduct](https://github.com/Echoes-of-Ink/.github/blob/main/CODE_OF_CONDUCT.md) before participating.
 
 ## Connect With Us 🌐
 - **Discussions**: Join the conversation in our [GitHub Discussions](https://github.com/EchoesOfInk/discussions).
