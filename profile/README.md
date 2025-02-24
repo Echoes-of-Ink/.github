@@ -20,8 +20,8 @@ We welcome writers, developers, and creatives of all levels! Here's how you can 
 
 ## Our Projects 🚀
 Here are some of the projects we're working on:
-- **Lighthouse Beyond the Veil**
-- **Canvas & Circuits** 
+- **Lighthouse Beyond the Veil**: Story about redemption, hope, and growth
+- **Canvas & Circuits**: A story of warmth, understanding, and the love that grows in unexpected places.
 
 ## Code of Conduct 📜
 We are committed to fostering an inclusive and respectful community. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
