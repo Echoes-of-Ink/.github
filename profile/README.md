@@ -20,9 +20,8 @@ We welcome writers, developers, and creatives of all levels! Here's how you can 
 
 ## Our Projects 🚀
 Here are some of the projects we're working on:
-- **[Echoes Anthology](https://github.com/EchoesOfInk/echoes-anthology)**: A collaborative collection of short stories and poems.
-- **[InkTools](https://github.com/EchoesOfInk/ink-tools)**: A suite of open-source tools for writers.
-- **[Promptly](https://github.com/EchoesOfInk/promptly)**: A repository of writing prompts to spark creativity.
+- **Lighthouse Beyond the Veil**
+- **Canvas & Circuits** 
 
 ## Code of Conduct 📜
 We are committed to fostering an inclusive and respectful community. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
