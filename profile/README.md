@@ -14,7 +14,7 @@ We are a community of passionate writers and developers who believe that stories
 ## Get Involved 🌟
 We welcome writers, developers, and creatives of all levels! Here's how you can join the Echoes of Ink community:
 1. **Join the Organization**: Reach out to us or open an issue to request an invite.
-2. **Contribute to Projects**: Check out our repositories and contribute to ongoing writing projects or tools.
+2. **Contribute to Projects**: Check out our repositories and contribute to ongoing writing projects or tools. Our repositories are hidden for security purposes, please join the organization first and then request access to *specific* repository from admin.
 3. **Start Your Own Project**: Have an idea? Create a new repository and invite others to collaborate.
 4. **Share Your Work**: Use our discussion board to share your writing, ask for feedback, or inspire others.
 
