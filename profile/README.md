@@ -28,7 +28,6 @@ We are committed to fostering an inclusive and respectful community. Please read
 
 ## Connect With Us 🌐
 - **Discussions**: Join the conversation in our [GitHub Discussions](https://github.com/EchoesOfInk/discussions).
-- **Twitter**: Follow us at [@EchoesOfInk](https://twitter.com/EchoesOfInk) for updates and inspiration.
-- **Website**: Coming soon!
+- **Instagram**: Follow us at [@EchoesOfInk](https://www.instagram.com/theechosofink?igsh=MXRhMDh6YTRoOTZxNw==) for updates and inspiration.
 
 Let the echoes of your words resonate here. Welcome to **Echoes of Ink**! ✨
